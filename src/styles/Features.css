@@ -1,0 +1,21 @@
+/* src/styles/Features.css */
+.features {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .features h2 {
+    margin-bottom: 20px;
+  }
+  
+  .features ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .features li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+  }
+  

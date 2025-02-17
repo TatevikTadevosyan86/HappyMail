@@ -1,0 +1,28 @@
+/* src/styles/HeroSection.css */
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #e9ecef;
+  }
+  
+  .hero-content {
+    max-width: 600px;
+  }
+  
+  .cta-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cta-button:hover {
+    background-color: #0056b3;
+  }
+  
